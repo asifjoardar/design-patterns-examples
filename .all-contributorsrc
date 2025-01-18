@@ -3,7 +3,9 @@
   "projectOwner": "asifjoardar",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "files": ["CONTRIBUTORS.md"],
+  "files": [
+    "CONTRIBUTORS.md"
+  ],
   "imageSize": 100,
   "commit": false,
   "commitType": "docs",
@@ -21,6 +23,18 @@
         "projectManagement",
         "maintenance",
         "content",
+        "review",
+        "code"
+      ]
+    },
+    {
+      "login": "zim0101",
+      "name": "Farhat Shahir Zim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27778619?v=4",
+      "profile": "https://medium.com/@farhatshahirzim",
+      "contributions": [
+        "projectManagement",
+        "maintenance",
         "review",
         "code"
       ]
